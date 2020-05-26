@@ -5,6 +5,17 @@
   - Slack
   - Replit
   - Git & GitHub
+- How to get help
+  - Slack (7pm evening instructor check in)
+  - Lab Zoom (between morning and evening classes and after class)
+- Community
+  - Twitter
+    - [Code Newbies](https://twitter.com/CodeNewbies?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) 
+    - #BlackTechTwitter
+    - [POC in Tech](https://twitter.com/pocintech?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+  - Podcasts
+    - [Two Black Nerds](https://www.twoblacknerds.com/)
+    - [Code Newbie](https://www.codenewbie.org/podcast)
 
 ### Project
 

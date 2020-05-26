@@ -21,6 +21,8 @@
 
 Read [HTML Developer Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 
+In class [Collaborator Bio](https://classroom.github.com/a/DAPcwqsH)
+
 ### TODO
 
 1. Read the student guidelines and how we work remotely docs in their entirety.

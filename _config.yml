@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://momentum-morehouse-team-1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repo_url: "https://github.com/momentum-morehouse-team-1/momentum-morehouse-team-1.github.io"
-github_username:  momentum-team-1
+github_username:  momentum-morehouse-team-1
 paginate: 5
 future: true
 timezone: America/New_York

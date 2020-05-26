@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Momentum Team 1
-email: info@momentumlearn.com
+title: Momentum@Morehouse Team 1
+email: rebecca@momentumlearn.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Public-facing site for Momentum Learning Team 1.
+  Public-facing site for Momentum@Morehouse Team 1.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://momentum-team-1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-repo_url: "https://github.com/momentum-team-1/momentum-team-1.github.io"
+url: "https://momentum-morehouse-team-1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+repo_url: "https://github.com/M-M-Team-1/momentum-morehouse-team-1.github.io"
 github_username:  momentum-team-1
 paginate: 5
 future: true

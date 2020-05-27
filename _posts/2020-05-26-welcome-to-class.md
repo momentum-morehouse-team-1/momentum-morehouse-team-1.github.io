@@ -33,3 +33,8 @@ In class [Collaborator Bio](https://classroom.github.com/a/DAPcwqsH)
 
 * [Student guidelines](https://docs.google.com/document/d/1ghhR4JqGtpLYkSov2KRNSFVFagvV1UvVXuqYbhibjLc/edit?usp=sharing)
 * [How we work remotely](https://docs.google.com/document/d/1HNgWzd3VtPRpz6CXtqGoTeVyzN113Hylv9nnZBnfVwc/edit?usp=sharing)
+
+### Code, slides, and video from class
+
+* [Morning Video]()
+* [Afternoon Video](https://us02web.zoom.us/rec/share/6OlqPov39TxIWJ3As0_jRKsiALrjaaa81HNK_fMFyEYenZhedPsrY9hjDOygcbNX) Password: 9m#0?6?@ 

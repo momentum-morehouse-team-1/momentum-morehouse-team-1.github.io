@@ -24,7 +24,7 @@ tags: phase-1 css
 - [Rachel Andrew: How to Learn CSS](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
 - [CSS Diner](https://flukeout.github.io/)
 - [A Look Back at the History of CSS](https://css-tricks.com/look-back-history-css/)
-- [MDN CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)s
+- [MDN CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
 - [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 - [Hacks for dealing with specificity](https://csswizardry.com/2014/07/hacks-for-dealing-with-specificity/)
 

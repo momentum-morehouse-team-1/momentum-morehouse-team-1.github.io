@@ -21,7 +21,13 @@ tags: phase-1 css layout responsive flexbox
 - [Dev.to Responsive Design with Flexbox](https://dev.to/gvinod1991/flex-box-layout-for-responsive-designs-part-1-24co)
 - [Another Dev.to guide to Responsive Web Design](https://dev.to/scrimba/learn-responsive-web-design-in-5-minutes-hg9)
 
-### Links and resources
+
+### JavaScript resources to prepare (optional)
+- [Introduction to JavaScript video](https://www.youtube.com/watch?v=_y9oxzTGERs)
+- [Introduction to JavaScript interactive tutorial](https://www.codecademy.com/learn/introduction-to-javascript)
+- [Introduction to JavaScript reading](https://javascript.info/intro)
+
+### Other links and resources
 - [How Flexbox Works with gifs](https://www.freecodecamp.org/news/an-animated-guide-to-flexbox-d280cf6afc35/#.ny5qtyivp)
 - [More Flexbox with gifs](https://www.freecodecamp.org/news/even-more-about-how-flexbox-works-explained-in-big-colorful-animated-gifs-a5a74812b053/#.mmcrvo7pu)
 - [CSS-Tricks Flexbox Layout Thought Process](https://css-tricks.com/the-thought-process-behind-a-flexbox-layout/)

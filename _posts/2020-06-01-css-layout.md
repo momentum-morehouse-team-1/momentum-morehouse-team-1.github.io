@@ -43,4 +43,4 @@ tags: phase-1 css layout responsive flexbox
 - [class slides PDF](/slide-decks/css-layout.pdf)
 - [flexbox demo code](https://repl.it/@RebeccaConley/EnormousJovialCarrier#index.html)
 - [morning video](https://us02web.zoom.us/rec/share/6s57Arfp5F5LS6PxzHvzWb8kOtz6X6a8gSNIqfoMyBoDp3DMA_zpzMxunI3fmRs) Password: 9n!5@9@5
-- afternoon video 
+- [afternoon video](https://us02web.zoom.us/rec/share/3vJ0LqjosX9JWNLD41jBUPcBLK_feaa8higZrvEOmUo54IJxH2uybk2YW5z3UYbU) Password:7h+z%=5P 

@@ -11,7 +11,7 @@ tags: phase-1 javascript js arrays
 - Transforming arrays with map, reduce, and filter
 
 ### Project
-#### TBA
+- [link to accept assignment](https://classroom.github.com/a/oPoSP0UM)
 
 
 ### TODO DURING LAB
@@ -30,4 +30,4 @@ tags: phase-1 javascript js arrays
 ### Code, slides, and video from class
 
 - [class slides PDF](/slide-decks/js-arrays.pdf)
-- [morning video]
+- [morning video](https://us02web.zoom.us/rec/share/yZJ6D7fPrUVLT42R1xqCfO0cAa3ceaa81HAfq6AMmh0dQif1JMybNstpLTB6ARMs)  Password: 1P?6?SC$

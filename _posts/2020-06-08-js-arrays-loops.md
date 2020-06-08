@@ -11,13 +11,12 @@ tags: phase-1 javascript js arrays
 - Transforming arrays with map, reduce, and filter
 
 ### Project
-#### JavaScript Practice Problems (Due Monday)
-- This assignment is on GitHub classroom, and you can accept it and work in Repl.it like you do with other assignments.
+#### TBA
 
-[Link to the assignment invitation](https://classroom.github.com/a/YZGU7y6c)
 
-### TODO
-- Check out the bio for tomorrow's speaer [Kojo Idrissa](https://www.revsys.com/about/bio/kojo-idrissa) and the company he works for. Prepare 2-3 questions for tomorrow.
+### TODO DURING LAB
+- Watch the videos here on [vimeo](https://vimeo.com/showcase/m-at-m).
+- Visit lab and/or 1:1 if you did not get through #5 on the HW.
 
 ### Links and resources
 
@@ -31,4 +30,4 @@ tags: phase-1 javascript js arrays
 ### Code, slides, and video from class
 
 - [class slides PDF](/slide-decks/js-arrays.pdf)
-- [morning video](https://us02web.zoom.us/rec/share/1cp-BYjI9UlJZqvU10vGefM8HJb6X6a80yIb8_MJn0qlqZ92_FdmslYfW3NKkt73) Password: 2c!909pG
+- [morning video]

@@ -41,8 +41,7 @@ And here is more info about what is happening when a browser renders a page:
 ### Code, slides, and video from class
 
 - [class slides PDF](/slide-decks/js-dom.pdf)
-- [morning class video](https://us02web.zoom.us/rec/share/5pwoF-6gqnxIG42d-lHRR6x9Et3gaaa80HUd_vFfxUx7l9uRuh1560btQ6Ko0MEM?startTime=1588165642000) Access Password: 7V*^0.25
-- [afternoon class video](https://us02web.zoom.us/rec/share/tdBbA-3Uy0BJTo3g1mT2V_MmJra5T6a8gSQZqfAEzB6KYZJXHGnlE2wSvzM0E3Zq?startTime=1588186687000) Access Password: 4S+$3Nb$
-- code examples from class:
+- [morning class video](https://us02web.zoom.us/rec/share/3I97dZjKq2pIWrf3sk7tHatiG8fVX6a8hnRNqKYKyBw3gZt2d1ry4mF6rQo-L_Vu) Access  Password: 7C^U0xV!
+- [afternoon class video](https://us02web.zoom.us/rec/share/xpZfJuvU20pJbKv_52yGcO06DNX3aaa81yge-vRcxUxxeenaW0YLyIGFC1zquNN_ ) Password: 0N.1Y437 
   - [bear-says](https://github.com/momentum-team-1/examples/tree/master/bear-says)
   - [acme](https://github.com/momentum-team-1/examples/tree/master/dom-acme) (the js file in this repo has another example you can try on your own for practice!)

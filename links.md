@@ -5,7 +5,7 @@ permalink: /links/
 
 # Very important links
 
-* [Class GitHub organization](https://github.com/momentum-morehouse-team-1)
+* [Class GitHub organization](https://github.com/momentum-morehouse)
 
 # Schedule by Week
 

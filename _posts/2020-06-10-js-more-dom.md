@@ -14,8 +14,12 @@ tags: phase-1 javascript js dom
 
 ### Project
 #### JavaScript Calculator
+- Continue calculator
+- Practice manipulating the DOM on public websites using the console
 
-[Link to the assignment invitation](https://classroom.github.com/a/KxEyc0hP)
+#### Reps
+- [Review Reading FCC](https://www.freecodecamp.org/news/html-dom-methods/)
+- [JavaScript DOM Tutorials 1 & 2](https://dom-tutorials.appspot.com/static/index.html)
 
 
 ### Links and resources

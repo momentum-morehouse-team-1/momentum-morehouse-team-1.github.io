@@ -15,7 +15,8 @@ tags: phase-1 javascript js dom
 ### Project
 #### JavaScript Calculator
 - Continue calculator
-- Practice manipulating the DOM on public websites using the console
+- Read the [weekend assignment](https://classroom.github.com/a/B7Ft93OP)
+- Learn about [Jeanette O'Brien](https://www.linkedin.com/in/jeanetteob/), tomorrow's speaker, and [Red Hat](https://www.redhat.com/en) where she works
 
 #### Reps
 - [Review Reading FCC](https://www.freecodecamp.org/news/html-dom-methods/)
@@ -41,7 +42,6 @@ And here is more info about what is happening when a browser renders a page:
 ### Code, slides, and video from class
 
 - [class slides PDF](/slide-decks/js-dom.pdf)
-- [morning class video](https://us02web.zoom.us/rec/share/3I97dZjKq2pIWrf3sk7tHatiG8fVX6a8hnRNqKYKyBw3gZt2d1ry4mF6rQo-L_Vu) Access  Password: 7C^U0xV!
-- [afternoon class video](https://us02web.zoom.us/rec/share/xpZfJuvU20pJbKv_52yGcO06DNX3aaa81yge-vRcxUxxeenaW0YLyIGFC1zquNN_ ) Password: 0N.1Y437 
-  - [bear-says](https://github.com/momentum-team-1/examples/tree/master/bear-says)
-  - [acme](https://github.com/momentum-team-1/examples/tree/master/dom-acme) (the js file in this repo has another example you can try on your own for practice!)
+- [morning class video](https://us02web.zoom.us/rec/share/_Mp1cZzQ2CBJRZ3U7E3dAbwhHonCeaa82ndKq6ZcxUlIlHYYVxHdhqmYoQi-7OYb ) Access Password: 5X*s&!9^ 
+- [afternoon class video](https://us02web.zoom.us/rec/share/5vRfFLHX9iBJaK-S91vDYKswXaLfeaa81HIX86ALmr9Pqc7UH4E3afJ3mk2Fils )  Password: 5f@?4O?M 
+- [Tweeter Example](https://js-dom-manipulation--rebeccaconley.repl.co/)

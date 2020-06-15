@@ -14,8 +14,8 @@ tags: phase-1 javascript js dom
 
 ### Project
 #### JavaScript Calculator
-- Continue calculator
-- Practice manipulating the DOM on public websites using the console
+- Finish Calculator - Due Friday Morning
+- 
 
 #### Reps
 - [Review Reading FCC](https://www.freecodecamp.org/news/html-dom-methods/)

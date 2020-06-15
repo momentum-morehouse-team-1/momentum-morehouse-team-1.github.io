@@ -29,4 +29,4 @@ tags: phase-1 javascript js objects
 - [Repl.it for working with an object](https://repl.it/repls/EverlastingBrilliantKnowledge)
 - [Demo using object data for menu items](https://github.com/momentum-team-1/examples/tree/master/using-object-data)
 - [morning class video](https://us02web.zoom.us/rec/share/6dFFEO3cyU5JZdLW0UvEZ5IiRNroT6a82iNL_6cMnkryt_dFLE0-yI0N6eJ5Tai_ )  Password: 0h^3*f2R 
-- [afternoon class video]()
+- [afternoon class video](https://us02web.zoom.us/rec/share/6-doc6rI8FlOXZWXrxDcXrYfBrbKeaa813dL-PBZmU25LnBP_W6fOkbL6p76W2E6 )  Password: 5V&8Ks^R

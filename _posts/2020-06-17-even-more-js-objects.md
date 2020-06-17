@@ -30,5 +30,5 @@ tags: phase-1 javascript js objects
 - [class slides PDF](/slide-decks/js-objects.pdf)
 - [Repl.it for functions/arguments](https://repl.it/repls/TemporalAjarRar)
 - [Demo using object data for menu items](https://github.com/momentum-team-1/examples/tree/master/using-object-data)
-- [morning class video](https://us02web.zoom.us/rec/share/95NpIK_zyzNJQonRyF__c_YNFZTMT6a8gyQZ-vMImkiqo8_j5nE8x3c5YkpYaEpn )   Password: 9U.$o^5? 
-- [afternoon class video](https://us02web.zoom.us/rec/share/3NN0BqrCqHlOH4HDtF7mSp94LraiT6a8h3Me_vpZnUlyq3Yq1834F70dU0BgEvJG) Password: 2q.XsO6Z 
+- [morning class video](https://us02web.zoom.us/rec/share/4cpVJerutXFLb4nuzV2DWZEQGtvDeaa8gCkW8_NYmkZBLazSliT8vgiTicfJYW82 )   Password: 3u^!T7G$  
+- [afternoon class video](https://us02web.zoom.us/rec/share/7p1eM7LQr1NLb4XG5lHFao9_NLnOT6a81XAY__FZmeSuRFiHHBDJEGbByzFpvUE ) Password: 5e&@D5XN 

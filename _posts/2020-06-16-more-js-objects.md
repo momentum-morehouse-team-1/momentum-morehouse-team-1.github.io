@@ -12,7 +12,7 @@ tags: phase-1 javascript js objects
 ### Project
 #### Objects Practice
 
-[Link to assignment invitation](https://classroom.github.com/a/nGJDvAxF)
+[Link to assignment invitation](https://classroom.github.com/a/g3aJw7nw)
 - [Repl.it for working with an object](https://repl.it/@RebeccaConley/FearfulOrchidClimate)
 
 ### Video

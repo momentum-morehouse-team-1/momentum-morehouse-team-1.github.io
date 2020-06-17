@@ -12,7 +12,7 @@ tags: phase-1 javascript js objects
 ### Project
 #### Objects Practice
 
-[Link to assignment invitation](https://classroom.github.com/a/nGJDvAxF)
+[Link to assignment invitation](https://classroom.github.com/a/g3aJw7nw)
 
 ### Video
 [Vimeo Channel](https://vimeo.com/showcase/m-at-m) updated to include Mari's Objects video.

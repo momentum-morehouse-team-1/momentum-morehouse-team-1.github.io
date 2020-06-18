@@ -20,10 +20,8 @@ tags: phase-1 javascript js objects
     - Why you are learning to code and what you want to do with your new skills
     - A *problem* you've encountered in coding, the *action* you took to solve it and the *results* of that action
     - How your previous career experience contributes to your thinking and skills as a developer
+- Have a look at the materials Erica shared and start thinking about any particular individuals or types of companies you would like to connect with.
 #### To Submit - email writing piece and link to your LinkedIn to rebecca@momentumlearn.com to Rebecca by the start of class Monday
-
-
-
 
 ### Video
 [Vimeo Channel](https://vimeo.com/showcase/m-at-m) updated to include Mari's Objects video and changing HTML with JS.
@@ -40,5 +38,5 @@ tags: phase-1 javascript js objects
 - [class slides PDF](/slide-decks/js-objects.pdf)
 - [Repl.it for functions/arguments](https://repl.it/repls/TemporalAjarRar)
 - [Demo using object data for menu items](https://github.com/momentum-team-1/examples/tree/master/using-object-data)
-- [morning class video](https://us02web.zoom.us/rec/share/4cpVJerutXFLb4nuzV2DWZEQGtvDeaa8gCkW8_NYmkZBLazSliT8vgiTicfJYW82 )   Password: 3u^!T7G$  
-- [afternoon class video](https://us02web.zoom.us/rec/share/7p1eM7LQr1NLb4XG5lHFao9_NLnOT6a81XAY__FZmeSuRFiHHBDJEGbByzFpvUE ) Password: 5e&@D5XN 
+- [morning class video](https://us02web.zoom.us/rec/share/puJzJe72-zlOH43r2GPRZJwzBYq8aaa81yNL-vMPy0fKd9rAZYLXDweyJUdlmrZW )  Password: 2m@@H+#9  
+- [afternoon class video]

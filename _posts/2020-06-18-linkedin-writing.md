@@ -39,4 +39,4 @@ tags: phase-1 javascript js objects
 - [Repl.it for functions/arguments](https://repl.it/repls/TemporalAjarRar)
 - [Demo using object data for menu items](https://github.com/momentum-team-1/examples/tree/master/using-object-data)
 - [morning class video](https://us02web.zoom.us/rec/share/puJzJe72-zlOH43r2GPRZJwzBYq8aaa81yNL-vMPy0fKd9rAZYLXDweyJUdlmrZW )  Password: 2m@@H+#9  
-- [afternoon class video]
+- [afternoon class video](https://us02web.zoom.us/rec/share/veAvPo3OqXlOaY2S6GPkXoIBHtXuX6a81yQZrvpbnR3M_xznne66DwDgBD9mbwFk ) Password: 4P%$@?B0

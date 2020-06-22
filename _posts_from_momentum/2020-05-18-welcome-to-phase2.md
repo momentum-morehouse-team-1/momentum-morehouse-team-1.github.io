@@ -24,7 +24,7 @@ Welcome to Phase 2, where we'll be learning about:
 
 ### Project
 
-[House hunting with Python](https://classroom.github.com/a/6nNnQSpP)
+[House hunting with Python](https://cxlassroom.github.com/a/6nNnQSpP)
 
 Some people will rip through this; for others, it will take quite a while. If you finish the easy mode early, please keep going and do the hard mode.
 

@@ -36,4 +36,4 @@ Welcome to Back End Development, where we'll be learning about:
 
 ### Code, Slides, and Video from Class
 
-* [Morning slides pdf](/Users/rlconley/M@M/github/momentum-morehouse-team-1.github.io/slide-decks/python-intro.pdf)
+* [Morning slides pdf](/slide-decks/python-intro.pdf)

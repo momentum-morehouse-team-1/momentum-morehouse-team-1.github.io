@@ -32,4 +32,4 @@ tags: phase-2 python
 
 * [debugging exercise](https://repl.it/@RebeccaConley/TwentyOne#main.py)
 * [morning video](https://us02web.zoom.us/rec/share/uuhWfoni_GRLeY3hwxHwWa8gJrXPT6a8h3AcrqEOmE5EC9LH_YD_Qrcz-abjc_GQ) Password 6g$=52$7 
-* [afternoon video]
+* [afternoon video](https://us02web.zoom.us/rec/share/vO9MN-H07D1ORKPHwxnkfKIFE6jFaaa8hHcW8_sIyxzZ-fI276JI_JxzlKafbuzw) Password: 0Q+o972Q 

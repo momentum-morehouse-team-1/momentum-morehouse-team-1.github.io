@@ -27,4 +27,4 @@ tags: phase-2 python
 
 * [starter code for Waether Data](https://repl.it/@RebeccaConley/WeatherData#main.py)
 * [morning video](https://us02web.zoom.us/rec/share/7_5RLbDfz2JJAZ33z26CA6UQO5rXeaa80yhIqPVcxU2cJUtNVWgE459gEmszlAp8 ) Password 9k.=!.!S 
-* [afternoon video](https://us02web.zoom.us/rec/share/z5V4dZzU2SRJBdLgtljVCp9_BN_6eaa80yYcqPcFz0wl4oBMNxIO14YhRaXK1-JR)
+* [afternoon video](https://us02web.zoom.us/rec/share/z5V4dZzU2SRJBdLgtljVCp9_BN_6eaa80yYcqPcFz0wl4oBMNxIO14YhRaXK1-JR) Password: 7w=h!392

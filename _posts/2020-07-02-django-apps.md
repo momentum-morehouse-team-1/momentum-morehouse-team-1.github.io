@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building Django Apps!
+title: More MDN Tutorial!
 tags: phase-2 python
 ---
 

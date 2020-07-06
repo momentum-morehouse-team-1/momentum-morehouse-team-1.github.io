@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Continue MD!
+title: Building Django Apps!
 tags: phase-2 python
 ---
 

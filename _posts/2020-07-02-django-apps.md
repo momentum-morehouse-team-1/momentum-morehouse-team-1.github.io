@@ -29,5 +29,4 @@ tags: phase-2 python
 ### Code, Slides, and Video from Class
 
 * [slides](slide-decks/IntroDjango.pdf)
-* [morning video](https://us02web.zoom.us/rec/share/1NBeJr7o1j5OHbfQ9U7mXIQkLMO5aaa8gCRM-vsFz00uSjwQ39LiwNjYJhtPMM2Q) Password: 9H^5.i12 
-* [afternoon video](https://us02web.zoom.us/rec/share/4MoyNbrd0k5OZbfjuHrRdu04HcP9eaa81XIY_fZczktpX58EuwGT1y_MUMmveIJt) Password: 7a$%4@26
+* [afternoon video](https://us02web.zoom.us/rec/share/z_ZbHeDJq11Jerf241Dgc40qJaLZaaa8gXQf_foPzh1z2ahq-S3LgsLfzw04EHof) Password: 2d#AP+7. 

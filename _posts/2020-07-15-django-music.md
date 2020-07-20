@@ -7,8 +7,6 @@ tags: phase-2 python
 ## Today's topics
 
 - Linking the front end
-- 
-- 
 
 ### Project
 

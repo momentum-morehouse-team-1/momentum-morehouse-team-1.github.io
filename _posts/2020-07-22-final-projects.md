@@ -11,6 +11,8 @@ tags: phase-3 agile development
 
 ### Project
  - Set up GitHub repo (one team member creates, others clone to Repl)
+ - [Scrum Reading](https://blog.trello.com/beginners-guide-scrum-and-agile-project-management)
+ - [REQUIRED pre-reading for Friday afternoon speaker from Google](https://arxiv.org/abs/2005.07572)
 
 [Register for Thursday of Codeland](https://codelandconf.com/#tickets)
 
